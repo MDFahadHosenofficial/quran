@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .custom-gap {
+    gap: 85px;
+  }
+
+  .custom-font-size {
+    font-size: 20px;
+  }
+}
